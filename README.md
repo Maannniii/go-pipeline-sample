@@ -27,6 +27,4 @@ Bring Your Own Infrastructure:
 
 ## Licensing
 
-MIT License
-
-## Forked
+MIT License.
